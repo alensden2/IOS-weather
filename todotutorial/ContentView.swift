@@ -30,6 +30,8 @@ struct ContentView: View {
                 Spacer().frame(width: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/, height: 100) // makes the vstack bigger
                 StandardAppButton(buttonName: "Change day time", backgroundColor: .white, textColor: .black) {
                     isNight.toggle()
+                    print("Current time: \(getCurrentTimeAndDay().time)")
+                    print("Current day: \(getCurrentTimeAndDay().day)")
                 }
                 
                 Spacer().frame(width: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/, height: 100)
