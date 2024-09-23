@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A5647730-F103-4E2B-9E3D-21F574B21A3D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46A0FBD3-523F-453F-B3A1-49C3039E11C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todotutorial/utils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "extractfromSigleResponseAPI(response:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "46A0FBD3-523F-453F-B3A1-49C3039E11C6 - efb46b874f84ea89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todotutorial.extractfromSigleResponseAPI(response: Swift.String) -&gt; todotutorial.WeatherDTO"
+                  moduleName = "todotutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynos/Downloads/ios/todotutorial/todotutorial/utils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "46A0FBD3-523F-453F-B3A1-49C3039E11C6 - efb46b874f84ea89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todotutorial.extractfromSigleResponseAPI(response: Swift.String) -&gt; todotutorial.WeatherDTO"
+                  moduleName = "todotutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynos/Downloads/ios/todotutorial/todotutorial/utils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D30D995E-1E06-430D-81C9-9E34DF6106ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todotutorial/utils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "extractfromSigleResponseAPI(response:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D30D995E-1E06-430D-81C9-9E34DF6106ED - efb46b874f84eacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todotutorial.extractfromSigleResponseAPI(response: Swift.String) -&gt; todotutorial.WeatherDTO"
+                  moduleName = "todotutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynos/Downloads/ios/todotutorial/todotutorial/utils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "D30D995E-1E06-430D-81C9-9E34DF6106ED - efb46b874f84eacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todotutorial.extractfromSigleResponseAPI(response: Swift.String) -&gt; todotutorial.WeatherDTO"
+                  moduleName = "todotutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynos/Downloads/ios/todotutorial/todotutorial/utils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1B77AED-A755-4F11-82C7-4C6DF3A6CF2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todotutorial/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8302CC77-E00F-4306-9BF6-302AF7D2F8E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todotutorial/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
